@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.netflix.com	TRUE	/	FALSE	1999999999	flwssn	8df9ea3c-8f81-43be-8f12-669cb105dc87
+.netflix.com	TRUE	/	FALSE	1999999999	nfvdid	BQFmAAEBEJCUeskkeLHOmu5rhAEsFNBA3Etjb6X1CHAwka38ylN3DDmaHk5yT_fxuBgRf5ilc058lWAXYSue18qf3i2of4EYO8hF9VxLE3VhuqERe31gIg%3D%3D
+.netflix.com	TRUE	/	FALSE	1999999999	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABT4B2aQbU5KT2EOudRsVAtv9kY37eqPlqA.%26dt%3D1682646582650
+.netflix.com	TRUE	/	FALSE	1999999999	NetflixId	v%3D2%26ct%3DBQAOAAEBENc3PhrBfaJrLxcYuv4MrEWBAInq7_BeuNRVCiLYyJgpG9Q_d2BWgIKHoS6w0Jq9RL2OiyrzQ362H5ENpVVkD1o12n42ZVCCGPh8n2ciLRFb5u6pXo1wALUDdFd3cjWX_49eE-2ZiRbIvUEaJ464OwNWCe048xccIArv6HuOxfWOjgadGHVOe4_AnqDebnFDlnRcXfaP0MQrzKbGTef9DgAlRa4grYYWoYuVRPmZjJKqs_ura6vDoJwZV1wpfxUqMTKMQpgnJTf5zHoAV3i3IveO6kEiK0hcFr1243VZaO-zA0JlAK7WFe5_gfijmh-D-9WEK-80I5oMyiR-qqy2P9rNhZgK99YqzTXxwY22aLY5wDE.%26bt%3Ddev%26mac%3DAQEAEAABABRfu_63xSma6hSPt1CKlOv3IxBl_dsfreE.
+www.netflix.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
